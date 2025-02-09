@@ -58,7 +58,7 @@
             >;
 
             display-name = "QWERT";
-            sensor-bindings = <&scroll_encoder>;
+            sensor-bindings = <&inc_dec_kp A B>;
         };
 
         layer_1 {
